@@ -1,1 +1,1 @@
-Repositorio criado para salvar uma tabela de cores que eu fiz seguindo uma logica matematica, combinando os multiplos de 50 em rgb, e alguns backgrounds que fiz em degrade com essa tabela.
+Repositorio criado para salvar uma palheta de cores que eu fiz seguindo uma logica matematica, combinando os multiplos de 50 em rgb, e alguns backgrounds que fiz em degrade com essa tabela.
